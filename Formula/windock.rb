@@ -5,7 +5,7 @@ class Windock < Formula
   version "1.0.27"
   sha256 "aa193a4a9894e2220b5e71834c34ff7e78995758ecd4ad7d3abc65392a975a39"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   def install
     prefix.install "WinDock.app"
