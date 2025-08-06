@@ -1,9 +1,9 @@
 class Windock < Formula
   desc "Windows 11-style taskbar for macOS"
   homepage "https://github.com/barnuri/win-dock"
-  url "https://github.com/barnuri/win-dock/releases/download/v1.0.25/WinDock.zip"
-  version "1.0.25"
-  sha256 "13d16440c0e316950df2a65f7bae362116d436b8f73421c5bb2ad4134660579c"
+  url "https://github.com/barnuri/win-dock/releases/download/v1.0.27/WinDock.zip"
+  version "1.0.27"
+  sha256 "aa193a4a9894e2220b5e71834c34ff7e78995758ecd4ad7d3abc65392a975a39"
 
   depends_on macos: ">= :sonoma"
 
